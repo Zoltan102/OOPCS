@@ -1,0 +1,6 @@
+C:\Users\zolik\Documents\school2\CSBevezeto\OOP\bin\Debug\OOP.exe
+C:\Users\zolik\Documents\school2\CSBevezeto\OOP\bin\Debug\OOP.pdb
+C:\Users\zolik\Documents\school2\CSBevezeto\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\zolik\Documents\school2\CSBevezeto\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\zolik\Documents\school2\CSBevezeto\OOP\obj\Debug\OOP.exe
+C:\Users\zolik\Documents\school2\CSBevezeto\OOP\obj\Debug\OOP.pdb

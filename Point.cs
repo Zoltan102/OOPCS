@@ -12,7 +12,7 @@ namespace OOP
             this.x = 0;
             this.y = 0;
         }
-
+        
         public Point(int num)
         {
             Random rnd = new Random();
@@ -24,6 +24,25 @@ namespace OOP
         {
             this.x = x;
             this.y = y;
+        }
+        
+        public int X { get => x; set => x = value; }
+        public int Y { get => y; set => y = value; }
+
+        public void DistanceToOrigo()
+        {
+            
+        }
+
+        public override string ToString()
+        {
+            return "[" + x + ";" + y + "]";
+        }
+
+        public void Deconstruct(out int x, out int y)
+        {
+            x = this.x;
+            y = this.y;
         }
     }
 }
